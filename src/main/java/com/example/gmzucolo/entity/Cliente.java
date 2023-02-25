@@ -1,6 +1,6 @@
 package com.example.gmzucolo.entity;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 @Entity
 @Table(name = "tb_cliente")

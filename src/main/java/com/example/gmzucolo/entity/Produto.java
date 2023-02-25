@@ -1,8 +1,8 @@
 package com.example.gmzucolo.entity;
 
-import jakarta.persistence.*;
 import org.hibernate.annotations.Formula;
 
+import javax.persistence.*;
 import java.util.Calendar;
 
 @Entity
